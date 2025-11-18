@@ -24,11 +24,8 @@
   <img width="12" />
     <img src="" height="30" alt="mySQL"  />
   <img width="12" />
-   <img src="" height="30" alt="Bootstrap"  />
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEAmAZJkl49wqGmS0dWhlGo-CYpaAT-g_WCA&s" height="30" alt="Bootstrap"  />
   <img width="12" />
-    <img src="<img width="800" height="326" alt="image" src="https://github.com/user-attachments/assets/95c149a8-ebf0-4022-89dd-f1189a3f2196" hegiht="30" alt="sweetalert" />
-  <img width="12" />
-
 ###
 
 <div align="left">
