@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ayesha Sheryar and I'm a Frontend Developer, from SMIT</h2>
+<h2 align="left">Hi 👋! My name is Ayesha Sheryar and I'm a Frontend Developer,from SMIT</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://www.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_65309450.htm#fromView=keyword&page=1&position=1&uuid=9381a7a2-c8ef-41a1-961b-e8102f2b2523&query=Programmer+avatar"  />
+<img align="right" height="150" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?semt=ais_hybrid&w=740&q=80"  />
 
 ###
 
@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://www.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_65309450.htm#fromView=keyword&page=1&position=1&uuid=9381a7a2-c8ef-41a1-961b-e8102f2b2523&query=Programmer+avatar" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
